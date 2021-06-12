@@ -3,7 +3,11 @@
 int add(int a,int b){
     int c=0;
     c = a+b;
+<<<<<<< HEAD
     //c=master;
+=======
+    //c=neewbranch;
+>>>>>>> newbranch
     return c;
 }
 int main()

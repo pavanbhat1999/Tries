@@ -3,7 +3,7 @@
 int add(int a,int b){
     int c=0;
     c = a+b;
-    c=2;
+    c=2.0;
     return c;
 }
 int main()

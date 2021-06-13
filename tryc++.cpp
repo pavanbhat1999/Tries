@@ -5,12 +5,7 @@ using namespace std;
 int add(int a,int b){
     int c=0;
     c = a+b;
-    c = 3;
-    int newvar;
-    newvar = 5;
-    int newvar2;
-    newvar =newvar2;
-    //c=master;
+    //c=newbranchi request;
     return c;
 }
 int main()

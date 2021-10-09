@@ -1,6 +1,6 @@
 from gingerit.gingerit import GingerIt
 
-text = 'The smelt of fliwers bring back memories.'
+text = 'Advantages of computer. : online chat. hand eye coordination. Access internet. ability to learn. fast. benefits society. access information.'
 
 parser = GingerIt()
 text=parser.parse(text)

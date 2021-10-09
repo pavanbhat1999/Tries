@@ -13,3 +13,6 @@ for i in range(5):
     if var1 == False:
         pass
 print ( "i amtrying git pushes" )
+l1 = ["hello","hi","who","are","you"]
+l1.append("added")
+print(l1)
